@@ -4,7 +4,7 @@
   "description": "Real-time tracking app with Express and Socket.IO",
   "main": "app.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
